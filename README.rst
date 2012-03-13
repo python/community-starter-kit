@@ -6,7 +6,7 @@ organizing Python community events.
 
 Contributing
 ------------
-Please help us create and currate this awesome resource for community
+Please help us create and curate this awesome resource for community
 development.
 
 * Create a `fork`_ of this repository
@@ -23,5 +23,5 @@ You can contribute anything you'd like.  Please fork this repository, add your
 new content or make changes to existing work, then submit a pull request.
 
 .. _fork: http://help.github.com/forking/
-.. _group-organizer: http://mail.python.org/mailman/listinfo/group-organizers
+.. _group-organizers: http://mail.python.org/mailman/listinfo/group-organizers
 .. _pull request: http://help.github.com/pull-requests/
