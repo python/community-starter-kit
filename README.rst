@@ -10,7 +10,7 @@ Please help us create and curate this awesome resource for community
 development.
 
 * Create a `fork`_ of this repository
-* Make a these resources better -- it doesn't matter how big or small your
+* Make these resources better -- it doesn't matter how big or small your
   contribution is
 * Commit your changes to a topic/feature branch
 * Submit a `pull request`_ against the ``python/community-starter-kit:master``
